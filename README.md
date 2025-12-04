@@ -30,8 +30,8 @@
 ---
 
 ## 📫 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-1B1F23?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/KAMU](https://github.com/msdlfrdng))  
-[![Instagram](https://img.shields.io/badge/Instagram-3B5998?style=for-the-badge&logo=instagram&logoColor=white)]([https://YOUR_INSTAGRAM](https://www.instagram.com/msdlfrdng?igsh=MWR3MDZiemgwMXA2bQ==))  
+[![GitHub](https://img.shields.io/badge/GitHub-1B1F23?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/msdlfrdng]) 
+[![Instagram](https://img.shields.io/badge/Instagram-3B5998?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/msdlfrdng?igsh=MWR3MDZiemgwMXA2bQ==])
 [![Email](https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white)](musdalifaradeng54@gmail.com)
 
 ---
